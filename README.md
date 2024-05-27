@@ -1,50 +1,23 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Youssefhajjaoui</h1>
+<h3 align="center">A passionate frontend developer from Morocco</h3>
 
-# About Me 🚀
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefhajjaoui&label=Profile%20views&color=0e75b6&style=flat" alt="youssefhajjaoui" /> </p>
 
-Hey there! 👋 I'm Youssefhajjaoui, a passionate programmer with a knack for turning ideas into reality with code. I'm on a mission to build awesome projects and solve real-world problems using my programming skills. Here's a glimpse of what I bring to the table:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youssefhajjaoui" alt="youssefhajjaoui" /></a> </p>
 
-## Skills 💻
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-### Programming Languages 🌟
-- **Java:** Crafting robust and scalable applications with Java is my jam!
-- **Python:** From scripting to web scraping, Python is my go-to for all things automation and data analysis.
-- **JavaScript:** Bringing web applications to life with React.js, Vue.js, and Node.js.
-- **C/C++:** Building high-performance systems and solving algorithmic puzzles with C/C++.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/youssef hajjaoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssef hajjaoui" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/youssef hajjaoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="youssef hajjaoui" height="30" width="40" /></a>
+</p>
 
-### Web Development 🌐
-- **HTML/CSS:** Crafting pixel-perfect, responsive web pages that dazzle and delight.
-- **Frameworks:** Creating dynamic and interactive web applications with React.js, Vue.js, and Flask.
-- **Backend Development:** Architecting RESTful APIs and server-side applications with Node.js, Express.js, and Django.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-### Database Management 📊
-- **SQL:** Mastering the art of querying and managing relational databases like a pro.
-- **NoSQL:** Wrangling unstructured data with MongoDB and other NoSQL databases.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=youssefhajjaoui&show_icons=true&locale=en&layout=compact" alt="youssefhajjaoui" /></p>
 
-### Tools of the Trade 🛠️
-- **Git:** Navigating the version control maze with ease using Git.
-- **IDEs:** Powering up my coding sessions with IntelliJ IDEA, PyCharm, and Visual Studio Code.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=youssefhajjaoui&show_icons=true&locale=en" alt="youssefhajjaoui" /></p>
 
-### Problem Solving 🤔
-- **Data Structures & Algorithms:** Tackling brain-teasing problems on LeetCode and HackerRank for fun!
-- **Debugging:** Unraveling code mysteries like a digital Sherlock Holmes.
-
-## Let's Connect! 📫
-I'm always up for a chat about programming, technology, or the latest sci-fi flick. Feel free to shoot me an [email](youssefhajjaoui67@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/youssef-hajjaoui-875b5723b/).
-
-Let's collaborate, innovate, and build something extraordinary together! 🌟
-
-<!--
-**Youssefhajjaoui/Youssefhajjaoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youssefhajjaoui&" alt="youssefhajjaoui" /></p>
