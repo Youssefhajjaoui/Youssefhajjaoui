@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefhajjaoui&label=Profile%20views&color=0e75b6&style=flat" alt="youssefhajjaoui" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youssefhajjaoui" alt="youssefhajjaoui" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=youssefhajjaoui](https://www.linkedin.com/in/youssef-hajjaoui-875b5723b/)" alt="youssefhajjaoui" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
